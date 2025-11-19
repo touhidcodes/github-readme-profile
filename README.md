@@ -227,7 +227,6 @@ A short one-line subtitle that describes what this project does.
 - [Dependencies](#dependencies)
 - [Installation️ & Setup](#installation--setup)
 - [Folder Structure](#folder-structure)
-- [Team Overview](#team-overview)
 - [Contributions](#contributions)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
