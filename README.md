@@ -151,6 +151,8 @@ Use `npm install` to install packages.
 ---
 ```
 
+---
+
 # Example Profile README Template
 Copy, paste, and customize:
 
@@ -207,6 +209,8 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 ```
+
+---
 
 # How to Use This Guide
 
