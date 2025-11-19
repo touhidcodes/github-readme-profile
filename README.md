@@ -2,10 +2,10 @@
 A compact, ready-to-use **Markdown guide** that compiles essential tools to build an impressive GitHub profile, plus a cheat sheet for mastering Markdown syntax.
 
 ## Table of Contents
-1. [Enhance Your GitHub Profile](#-enhance-your-github-profile)   
-2. [Markdown Syntax Cheat Sheet](#-markdown-syntax-cheat-sheet)  
-3. [Example Profile README Template](#-example-profile-readme-template)
-4. [How to Use This Guide](#-how-to-use-this-guide)  
+1. [Enhance Your GitHub Profile](#enhance-your-github-profile)   
+2. [Markdown Syntax Cheat Sheet](#markdown-syntax-cheat-sheet)  
+3. [Example Profile README Template](#example-profile-readme-template)
+4. [How to Use This Guide](#how-to-use-this-guide)  
 
 ---
 
