@@ -15,8 +15,6 @@ Use these resources to create a dynamic and professional GitHub profile.
 ## GitHub Profile Examples (Inspiration)
 Explore these profiles for layout, design, and widget ideas:
 
-- [sanyfaysal](https://github.com/sanyfaysal)
-- [nur-adnan](https://github.com/nur-adnan)
 - [thmsgbrt](https://github.com/thmsgbrt)
 - [rahul-jha98](https://github.com/rahul-jha98)
 - [zumrudu-anka](https://github.com/zumrudu-anka)
