@@ -353,3 +353,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 3. Use the Readme Styling & Icons table to pick badges and icons, paste their Markdown into your README.
 4. Try a generator (linked above) if you're short on time and then refine the generated Markdown.
 5. For animations, generate typing SVGs or contribution visuals and embed them as images.
+
+---
+
+## My Contribution
+
+I forked this repository to explore GitHub profile README resources and practice working with open-source repositories.
